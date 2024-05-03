@@ -28,4 +28,4 @@ Available files:
 
 
 ## Citation
-Hernáez A., Lassale C., Sandoval V., Ros E., Ortega E., Pintó X., Castañer O., Martínez-González M.Á., Corella D., Salas-Salvadó J., Estruch R., Arós F., Lapetra J., Fiol M., Gómez-Gracia E., Serra-Majem L., *1, *2, *3, Fitó M. (2024). Yearly attained adherence to Mediterranean diet, time-dependent trajectories of lipid profile and onset of clinical dyslipidemias in a cohort of older adults. In preparatio
+Hernáez A., Lassale C., Sandoval V., Ros E., Ortega E., Pintó X., Castañer O., Martínez-González M.Á., Corella D., Salas-Salvadó J., Estruch R., Arós F., Lapetra J., Fiol M., Gómez-Gracia E., Serra-Majem L., *1, *2, *3, Fitó M. (2024). Yearly attained adherence to Mediterranean diet, time-dependent trajectories of lipid profile and onset of clinical dyslipidemias in a cohort of older adults. In preparation
