@@ -1,4 +1,4 @@
-# Manuscript: "Yearly attained adherence to Mediterranean diet, time-dependent trajectories of lipid profile and onset of clinical dyslipidemias in a cohort of older adults"
+# Manuscript: "Yearly attained adherence to Mediterranean diet, estimated 25-year trajectories of lipid profile and onset of clinical dyslipidemias in adults and older adults"
 ## Authors
 - Álvaro Hernáez
 - Camille Lassale
@@ -11,14 +11,14 @@
 - Dolores Corella
 - Jordi Salas-Salvadó
 - Ramón Estruch
-- Fernando Arós
+- Txagorritxu-1
 - José Lapetra
 - Miquel Fiol
 - Enrique Gómez-Gracia
 - Lluis Serra-Majem
-- *1
-- *2
-- *3
+- Estefanía Toledo
+- Valencia-1
+- Nancy Babio
 - Montserrat Fitó
 
 
